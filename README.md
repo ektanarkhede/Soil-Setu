@@ -12,16 +12,6 @@ Fertilizer Planner: Provides precise nutrient recommendations based on the recom
 
 Disease Predictor: Uses an image-based ML model to detect crop diseases from photos and suggests low-cost treatments.
 
-Features
-
-The project is built on a "Trifecta" System that integrates three mission-critical pillars of the crop cycle:
-
-Crop Recommender: Analyzes live soil data (NPK, moisture, temperature) to suggest the most profitable crops for a specific field.
-
-Fertilizer Planner: Provides precise nutrient recommendations based on the recommended crop, helping reduce expenditure by up to 40%.
-
-Disease Predictor: Uses an image-based ML model to detect crop diseases from photos and suggests low-cost treatments.
-
 Installation & Setup
 
 Prerequisites:
